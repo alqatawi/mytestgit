@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("THIS IS CONTENT IN MY SECOND COMMIT ")
-           hgnnbjutrn jhhnbvcdd
+
     }
 }
