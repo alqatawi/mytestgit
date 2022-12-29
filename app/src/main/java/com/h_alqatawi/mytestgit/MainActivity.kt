@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("LOCAL CHANGE")
         println("Change 4")
         println("THIS LINE WILL BE MERGED")
+        println("Hello from your friend")
 
     }
 }
