@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("THIS IS CONTENT IN MY SECOND COMMIT ")
         println("LOCAL CHANGE")
-        println("Experimental")
+        println("CHANGE 1")
 
     }
 }
